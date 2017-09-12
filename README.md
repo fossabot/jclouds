@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandrewgaul-test%2Fjclouds.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandrewgaul-test%2Fjclouds?ref=badge_shield)
+
 jclouds
 ======
 
@@ -10,3 +12,7 @@ License
 Copyright (C) 2009-2013 The Apache Software Foundation
 
 Licensed under the Apache License, Version 2.0
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandrewgaul-test%2Fjclouds.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandrewgaul-test%2Fjclouds?ref=badge_large)
